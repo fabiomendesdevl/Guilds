@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\bin\Debug\net7.0\Guilds.exe
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\bin\Debug\net7.0\Guilds.deps.json
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\bin\Debug\net7.0\Guilds.runtimeconfig.json
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\bin\Debug\net7.0\Guilds.dll
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\bin\Debug\net7.0\Guilds.pdb
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\obj\Debug\net7.0\Guilds.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\obj\Debug\net7.0\Guilds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\obj\Debug\net7.0\Guilds.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\obj\Debug\net7.0\Guilds.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\obj\Debug\net7.0\Guilds.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\obj\Debug\net7.0\Guilds.dll
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\obj\Debug\net7.0\refint\Guilds.dll
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\obj\Debug\net7.0\Guilds.pdb
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\obj\Debug\net7.0\Guilds.genruntimeconfig.cache
+C:\Users\fabio\Desktop\Nova pasta\Guilds\Guilds\obj\Debug\net7.0\ref\Guilds.dll
